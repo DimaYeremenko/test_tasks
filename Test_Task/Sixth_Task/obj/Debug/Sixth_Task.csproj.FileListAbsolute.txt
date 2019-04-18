@@ -1,0 +1,6 @@
+C:\Repos\TestTask\Test_Task\Sixth_Task\bin\Debug\Sixth_Task.exe.config
+C:\Repos\TestTask\Test_Task\Sixth_Task\bin\Debug\Sixth_Task.exe
+C:\Repos\TestTask\Test_Task\Sixth_Task\bin\Debug\Sixth_Task.pdb
+C:\Repos\TestTask\Test_Task\Sixth_Task\obj\Debug\Sixth_Task.csproj.CoreCompileInputs.cache
+C:\Repos\TestTask\Test_Task\Sixth_Task\obj\Debug\Sixth_Task.exe
+C:\Repos\TestTask\Test_Task\Sixth_Task\obj\Debug\Sixth_Task.pdb

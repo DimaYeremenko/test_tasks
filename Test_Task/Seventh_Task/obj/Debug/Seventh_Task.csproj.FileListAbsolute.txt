@@ -1,0 +1,7 @@
+C:\Repos\TestTask\Test_Task\Seventh_Task\bin\Debug\Seventh_Task.exe.config
+C:\Repos\TestTask\Test_Task\Seventh_Task\bin\Debug\Seventh_Task.exe
+C:\Repos\TestTask\Test_Task\Seventh_Task\bin\Debug\Seventh_Task.pdb
+C:\Repos\TestTask\Test_Task\Seventh_Task\obj\Debug\Seventh_Task.csproj.CoreCompileInputs.cache
+C:\Repos\TestTask\Test_Task\Seventh_Task\obj\Debug\Seventh_Task.exe
+C:\Repos\TestTask\Test_Task\Seventh_Task\obj\Debug\Seventh_Task.pdb
+C:\Repos\TestTask\Test_Task\Seventh_Task\obj\Debug\Seventh_Task.csprojAssemblyReference.cache
