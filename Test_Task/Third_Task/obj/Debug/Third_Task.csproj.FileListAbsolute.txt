@@ -1,0 +1,12 @@
+C:\Users\ereme\source\repos\Test_Task\Third_Task\bin\Debug\Third_Task.exe.config
+C:\Users\ereme\source\repos\Test_Task\Third_Task\bin\Debug\Third_Task.exe
+C:\Users\ereme\source\repos\Test_Task\Third_Task\bin\Debug\Third_Task.pdb
+C:\Users\ereme\source\repos\Test_Task\Third_Task\bin\Debug\EntityFramework.dll
+C:\Users\ereme\source\repos\Test_Task\Third_Task\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ereme\source\repos\Test_Task\Third_Task\bin\Debug\EntityFramework.xml
+C:\Users\ereme\source\repos\Test_Task\Third_Task\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ereme\source\repos\Test_Task\Third_Task\obj\Debug\Third_Task.csprojAssemblyReference.cache
+C:\Users\ereme\source\repos\Test_Task\Third_Task\obj\Debug\Third_Task.csproj.CoreCompileInputs.cache
+C:\Users\ereme\source\repos\Test_Task\Third_Task\obj\Debug\Third_Task.csproj.CopyComplete
+C:\Users\ereme\source\repos\Test_Task\Third_Task\obj\Debug\Third_Task.exe
+C:\Users\ereme\source\repos\Test_Task\Third_Task\obj\Debug\Third_Task.pdb

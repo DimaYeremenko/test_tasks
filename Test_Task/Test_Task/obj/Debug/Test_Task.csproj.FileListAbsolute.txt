@@ -1,0 +1,7 @@
+C:\Users\ereme\source\repos\Test_Task\Test_Task\bin\Debug\Test_Task.exe.config
+C:\Users\ereme\source\repos\Test_Task\Test_Task\bin\Debug\Test_Task.exe
+C:\Users\ereme\source\repos\Test_Task\Test_Task\bin\Debug\Test_Task.pdb
+C:\Users\ereme\source\repos\Test_Task\Test_Task\obj\Debug\Test_Task.csprojAssemblyReference.cache
+C:\Users\ereme\source\repos\Test_Task\Test_Task\obj\Debug\Test_Task.csproj.CoreCompileInputs.cache
+C:\Users\ereme\source\repos\Test_Task\Test_Task\obj\Debug\Test_Task.exe
+C:\Users\ereme\source\repos\Test_Task\Test_Task\obj\Debug\Test_Task.pdb

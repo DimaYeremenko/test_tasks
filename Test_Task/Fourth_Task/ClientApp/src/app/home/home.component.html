@@ -1,0 +1,38 @@
+<input placeholder="Input search text" [formControl]='searchNameControl' type="text" class="form-control" aria-label="Default"/>
+
+<table class="table table-striped table-hover">
+    <tr style="padding: 5px">
+        <td  style="width:300px">
+            Id
+        </td>
+        <td style="width:300px">
+            Name
+        </td>
+        <td  style="width:300px">
+            LastName
+        </td>
+        <td  style="width:300px"></td>
+    </tr>
+    <tr *ngFor="let user of users">
+        <td scope="row" style="width:100px">
+            {{user.id}}
+        </td>
+        <td  style="width:300px">
+            <input *ngIf="user.isEditMode" class="form-control" type="text" style="width:200px" [(ngModel)]="user.name"/>
+            <p *ngIf="!user.isEditMode">{{user.name}}</p>            
+        </td>
+        <td  style="width:300px">
+                <input *ngIf="user.isEditMode" class="form-control" type="text" style="width:200px" [(ngModel)]="user.lastName"/>
+                <p *ngIf="!user.isEditMode">{{user.lastName}}</p>
+            </td>
+        <td  style="width:300px">
+                <button type="button" class="btn btn-primary btn-sm" *ngIf="!user.isEditMode" (click)="user.isEditMode = true">Edit</button>
+                <div class="container" *ngIf="user.isEditMode">
+                    <div class="row">
+                        <button type="button" class="btn btn-primary btn-sm btn-success col-sm" (click)="update(user)">Save</button>
+                        <button type="button" class="btn btn-primary btn-sm btn-danger col-sm" (click)="user.isEditMode = false">Cancel</button>
+                    </div>
+                </div>
+        </td>
+    </tr>
+</table>
