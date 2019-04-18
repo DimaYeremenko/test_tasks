@@ -70,7 +70,7 @@ namespace Seventh_Task
             }
         }
 
-        static void Swap(int[] myint, int i, int j) //swap функция обмена
+        static void Swap(int[] myint, int i, int j)
         {
             int glass = myint[i];
             myint[i] = myint[j];
